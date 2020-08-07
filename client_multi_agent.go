@@ -1,3 +1,5 @@
+// branch2 用のファイル
+
 // go run client_multi_agent.go
 
 // Copyright 2015 The Gorilla WebSocket Authors. All rights reserved.
